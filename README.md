@@ -1,6 +1,8 @@
 # robot-arm-5-degrees-of-freedom
 I will add the file of the arm and some imge of the arm and a vedio of the arm.
-#imge
+
+
+# imge
 
 ![Screenshot 2025-07-08 001927](https://github.com/user-attachments/assets/a1c942d3-875d-4187-b07c-3c70ae088d8e)
 
