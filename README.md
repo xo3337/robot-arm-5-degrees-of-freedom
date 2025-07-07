@@ -1,8 +1,18 @@
 # robot-arm-5-degrees-of-freedom
-I will add the file of the arm and some imge of the arm and a vedio of the arm.
+I will provide the file of the arm, along with several images and a video demonstrating it.
 
 
-# imge
+
+# video
+
+
+
+
+https://github.com/user-attachments/assets/191794fd-d0ea-4601-a90c-fe85d84cd126
+
+
+
+# images
 
 ![Screenshot 2025-07-08 001927](https://github.com/user-attachments/assets/a1c942d3-875d-4187-b07c-3c70ae088d8e)
 
@@ -16,9 +26,4 @@ I will add the file of the arm and some imge of the arm and a vedio of the arm.
 
 ![Screenshot 2025-07-08 001947](https://github.com/user-attachments/assets/1fee84b8-90a9-4790-a12c-cf26d0ba70e9)
 
-
-# the vedio 
-
-
-https://github.com/user-attachments/assets/998a5bfd-3f20-4c50-9a70-106efd01436b
 
